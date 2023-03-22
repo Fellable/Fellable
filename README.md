@@ -71,7 +71,7 @@
 </td></tr>
 <tr>
 <td colspan="3"> 
-Моя сильная сторона - PHP, Laravel, VueJS, SQL, HTML, CSS, Tailwind, JS. <br>
+Мои сильные стороны - PHP, Laravel, VueJS, SQL, HTML, CSS, Tailwind, JS. Но все перечисленные технологии я знаю на должном уровне и могу без труда использовать на практике. <br>
 </tr>
 </table>  
 
