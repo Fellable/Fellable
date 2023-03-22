@@ -71,9 +71,7 @@
 </td></tr>
 <tr>
 <td colspan="3"> 
-Моя сильная сторона - PHP, Laravel, VueJS, SQL, HTML, CSS, Tailwind. <br>
-Моя слабая сторона -  Linux, Docker. <br>
-Остальное из перечисленного - на среднем уровне.
+Моя сильная сторона - PHP, Laravel, VueJS, SQL, HTML, CSS, Tailwind, JS. <br>
 </tr>
 </table>  
 
