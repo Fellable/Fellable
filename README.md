@@ -83,7 +83,5 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fellable&langs_count=8)]
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fellable&langs_count=8)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fellable&show_icons=true&theme=radical)
