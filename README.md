@@ -1,6 +1,6 @@
 #  <div align="center"> Здравствуйте, я - Женя.  <div> 
 
-### <div align="center">  Мой стэк технологий </div>
+### <div align="center">  Мой стек технологий </div>
 <table><tr><td valign="top" width="33%">
 
 ### <div align="center"> Frontend </div>
